@@ -103,14 +103,4 @@ Deep Autoencoders consist of two identical deep belief networks, oOne network fo
 - Chances of overfitting to occur since there's more parameters than input data.
 - Training the data maybe a nuance since at the stage of the decoder’s backpropagation, the learning rate should be lowered or made slower depending on whether binary or continuous data is being handled.
 
-## Credit
 
-**Coded By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/Auto-Encoders-DL/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/Auto-Encoders-DL" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
